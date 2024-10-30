@@ -13,9 +13,5 @@ I'm a **Full Stack Developer** from **Bangladesh** with over 3 years of experien
 
 ---
 
-💬 **Let's Connect:** Feel free to reach out!  
-🌐 **[GitHub Profile](https://github.com/yourusername)**  
-✉️ **Email:** your.email@example.com
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraz66&layout=compact) 
 
