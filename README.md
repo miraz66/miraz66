@@ -1,17 +1,16 @@
 
 [![Full-Stack-Developer.png](https://i.postimg.cc/PxBrZPgf/Full-Stack-Developer.png)](https://postimg.cc/7GnkrYPj)
 
-# Md. Mirajul Islam
-I'm a **Full Stack Developer** from **Bangladesh** with over 3 years of experience in **React**, **Laravel**, **Django**, and a variety of web technologies. My focus is on delivering high-quality, maintainable code and creating smooth, responsive, and efficient applications. I thrive in both frontend and backend development, working with modern frameworks and libraries to bring ideas to life.
+Hi there 👋
+🔭 I’m currently working in DevOps | Laravel | Livewire, Alpine.js | System Administration | Web Development 🌍 | Cloud ☁️
+🌱 I’m currently learning the Django | Full-Stack ⚡ | Open-Source 🔥
+💝 Love Books 📚 | Music 🎧
+👯 I’m looking to collaborate on Django Project.
+🤔 I’m looking for Mentor.
+💬 Ask me about: Linux System Administration
+📫 How to reach me: Twitter Badge
+⚡ Fun fact: When most developer loves coffee:sweat_smile: But, I prefer tea :heart:
 
----
-### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend:** Laravel, Django, PHP, Python
-- **Tools:** Git, Neovim, Figma
-- **Current Projects:** Laravel ECommerce Backend, React-based support ticket system, CMS projects 
-
----
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraz66&layout=compact) 
 
