@@ -1,8 +1,6 @@
 # 👋 Hello, I'm Md. Mirajul Islam
 
-🌍 **From:** Bangladesh  
-💻 **Full Stack Developer** specializing in **React**, **Laravel**, **Django**, and more.  
-🔍 **Passionate** about building seamless user experiences and creating efficient backend solutions.
+I'm a **Full Stack Developer** from **Bangladesh** with over 3 years of experience in **React**, **Laravel**, **Django**, and a variety of web technologies. My focus is on delivering high-quality, maintainable code and creating smooth, responsive, and efficient applications. I thrive in both frontend and backend development, working with modern frameworks and libraries to bring ideas to life.
 
 ---
 
@@ -17,3 +15,5 @@
 💬 **Let's Connect:** Feel free to reach out!  
 🌐 **[GitHub Profile](https://github.com/yourusername)**  
 ✉️ **Email:** your.email@example.com
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraz66&hide_progress=true)
