@@ -17,4 +17,4 @@ I'm a **Full Stack Developer** from **Bangladesh** with over 3 years of experien
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraz66&layout=compact) 
 
-<img src="https://i.ibb.co.com/fS5WgP9/undraw-laravel-and-vue-59tp.png" alt="Your Image Alt Text" align="left" width="200" style="margin-right: 10px;"/>
+<img src="https://i.postimg.cc/59QK46p7/undraw-laravel-and-vue-59tp.png" alt="Your Image Alt Text" align="left" width="200" style="margin-right: 10px;"/>
