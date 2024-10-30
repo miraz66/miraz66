@@ -17,3 +17,5 @@ I'm a **Full Stack Developer** from **Bangladesh** with over 3 years of experien
 ✉️ **Email:** your.email@example.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraz66&hide_progress=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraz66&size_weight=0.5&count_weight=0.5)
