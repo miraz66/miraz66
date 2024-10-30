@@ -16,15 +16,5 @@ I'm a **Full Stack Developer** from **Bangladesh** with over 3 years of experien
 🌐 **[GitHub Profile](https://github.com/yourusername)**  
 ✉️ **Email:** your.email@example.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraz66&layout=compact)
-
-<style>
-  .left-img {
-    float: left;
-    margin-right: 10px;
-  }
-</style>
-
-<img src="image_url" alt="Your Image Alt Text" class="left-img" width="200"/>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraz66&layout=compact)  <img src="image_url" alt="Your Image Alt Text" align="left" width="200" style="margin-right: 10px;"/>
 
