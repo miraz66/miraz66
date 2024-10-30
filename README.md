@@ -1,5 +1,5 @@
 
-[![personal.png](https://i.postimg.cc/SKK6CR2Q/personal.png)](https://postimg.cc/w1SRd6Qn)
+[![Full-Stack-Developer.png](https://i.postimg.cc/PxBrZPgf/Full-Stack-Developer.png)](https://postimg.cc/7GnkrYPj)
 
 # Md. Mirajul Islam
 I'm a **Full Stack Developer** from **Bangladesh** with over 3 years of experience in **React**, **Laravel**, **Django**, and a variety of web technologies. My focus is on delivering high-quality, maintainable code and creating smooth, responsive, and efficient applications. I thrive in both frontend and backend development, working with modern frameworks and libraries to bring ideas to life.
