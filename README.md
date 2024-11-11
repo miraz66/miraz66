@@ -1,6 +1,3 @@
-
-[![Full-Stack-Developer.png](https://i.postimg.cc/PxBrZPgf/Full-Stack-Developer.png)](https://postimg.cc/7GnkrYPj)
-
 # 👋 Hello, I'm Md. Mirajul Islam
 
 🌍 **From:** Bangladesh  
