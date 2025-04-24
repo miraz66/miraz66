@@ -5,9 +5,10 @@
 🔍 **Passionate** about building seamless user experiences and creating efficient backend solutions.
 
 ### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend:** Laravel, Django, PHP, Python
-- **Tools:** Git, Neovim, Figma
+- **Frontend:** React, NextJS, TailwindCSS, JavaScript, HTML, CSS.
+- **Backend:** Laravel, Django, PHP, Python.
+- **Tools:** Git, Neovim, Figma, Linux, VsCode, Web-Storm for JetBrains.
+- **Others** Axios, SWR, Redux, Farmar-Motion, ChartJs.
 - **Current Projects:** Laravel ECommerce Backend, React-based support ticket system, CMS projects
 
 ---
