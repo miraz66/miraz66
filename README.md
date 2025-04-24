@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Md. Mirajul Islam
 
 🌍 **From:** Bangladesh  
-💻 **Full Stack Developer** specializing in **React**, **NextJs** **Laravel**, **Django**, and more.  
+💻 **Full Stack Developer** specializing in **React**, **NextJs**, **Laravel**, **Django**, and more.  
 🔍 **Passionate** about building seamless user experiences and creating efficient backend solutions.
 
 ### 🛠️ Tech Stack
