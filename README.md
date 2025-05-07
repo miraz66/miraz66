@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraz66&layout=compact) 
+
 # 👋 Hello, I'm Md. Mirajul Islam
 
 🌍 **From:** Bangladesh  
@@ -12,5 +14,4 @@
 - **Current Projects:** Laravel ECommerce Backend, React-based support ticket system, CMS projects
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraz66&layout=compact) 
 
