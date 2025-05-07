@@ -1,4 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraz66&layout=compact) 
 
 # 👋 Hello, I'm Md. Mirajul Islam
 
@@ -15,3 +14,4 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraz66&layout=compact) 
